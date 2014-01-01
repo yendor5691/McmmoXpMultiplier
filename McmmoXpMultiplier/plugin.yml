@@ -1,0 +1,6 @@
+name: McmmoXpMultiplier
+version: 0.0.1
+main: com.massivecraft.mcmmoxpmultiplier.McmmoXpMultiplier
+authors: [yendor46]
+description: McmmoXpMultiplier multiplies the McMMO experience gained by 0.00 to 4.00 based on the highest permission node of the form mcmmoxpmultiplier.0 to mcmmoxpmultiplier.400 that is true for a player.  This is calculated independently of any McMMO Xp bonuses.  
+depend: [mcMMO, mcore]
